@@ -150,4 +150,5 @@ public class CGPAPlannerPage extends JPanel {
             System.err.println("Error saving CGPA record: " + e.getMessage());
         }
     }
+
 }
